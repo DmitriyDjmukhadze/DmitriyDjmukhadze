@@ -5,4 +5,4 @@ studying at Anglia Ruskin University.
 
 I’m looking for a junior game development role.
 
-https://dmitriydjmukhadze.github.io/DmitriyDjmukhadze/#home
+[View my portfolio →](https://dmitriydjmukhadze.github.io/DmitriyDjmukhadze/)
